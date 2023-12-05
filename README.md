@@ -1,5 +1,5 @@
 Hello, I am <strong>Jenadson Basilio</strong>,
-<br/>I worked 8 years as a helpdesk and  computer network technician, now I want to changed to software development, and with this I can start a new fase in my IT career life.
+<br/>I worked 8 years as a helpdesk and  computer network technician, now I want to changed to software development, and with this I can start a new fase in my life.
 <br/>🌱 I’m currently learning react.
 
 <div style="display: inline_block"><br>
