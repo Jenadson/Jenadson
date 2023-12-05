@@ -1,9 +1,17 @@
-### Hi there 👋
+Hello, I am <strong>Jenadson Basilio</strong>,
+<br/>I worked 8 years as a helpdesk and  computer network technician, now I want to changed to software development, and with this I can start a new fase in my IT career life.
+<br/>🌱 I’m currently learning react.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
 
 <!--
-**Jenadson/Jenadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
