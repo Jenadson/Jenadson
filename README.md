@@ -1,6 +1,17 @@
 Hello, I am <strong>Jenadson Basilio</strong>,
-<br/>I worked 8 years as a helpdesk and  computer network technician, now I want to changed to software development, and with this I can start a new fase in my life.
-<br/>🌱 I’m currently learning react.
+<p>
+<br>Hello! My name is Jenadson Basilio.
+<br>I worked for 8 years as a Helpdesk and Computer Network Technician, and now I'm transitioning into software development. I’m excited to start this new chapter in my career and apply my technical background to build and create new solutions.
+</p>
+
+<p>
+<br>Olá! Meu nome é Jenadson Basilio.
+<br>Trabalhei por 8 anos como técnico de Helpdesk e Redes de Computadores, e agora estou em transição para a área de desenvolvimento de software. Estou animado para iniciar este novo capítulo da minha carreira e aplicar minha experiência técnica para construir e criar novas soluções.  
+</p>
+
+
+
+<!--
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +21,7 @@ Hello, I am <strong>Jenadson Basilio</strong>,
   
 </div>
 
-<!--
+
 
 
 - 🔭 I’m currently working on ...
