@@ -1,13 +1,19 @@
-Hello, I am <strong>Jenadson Basilio</strong>,
+
 <p>
-<br>Hello! My name is Jenadson Basilio.
+<br>Hello! My name is <strong>Jenadson Basilio</strong>.
 <br>I worked for 8 years as a Helpdesk and Computer Network Technician, and now I'm transitioning into software development. I’m excited to start this new chapter in my career and apply my technical background to build and create new solutions.
+<br>Experience with HTML, CSS, and JavaScript.
+<br>Currently learning C#.  
 </p>
 
 <p>
-<br>Olá! Meu nome é Jenadson Basilio.
-<br>Trabalhei por 8 anos como técnico de Helpdesk e Redes de Computadores, e agora estou em transição para a área de desenvolvimento de software. Estou animado para iniciar este novo capítulo da minha carreira e aplicar minha experiência técnica para construir e criar novas soluções.  
+<br>Olá! Meu nome é <strong>Jenadson Basilio</strong>.
+<br>Trabalhei por 8 anos como técnico de Helpdesk e Redes de Computadores, e agora estou em transição para a área de desenvolvimento de software. Estou animado para iniciar este novo capítulo da minha carreira e aplicar minha experiência técnica para construir e criar novas soluções.
+<br>Experiência em HTML, CSS e javascript. 
+<br>Atualmente aprendendo C#.  
+
 </p>
+
 
 
 
